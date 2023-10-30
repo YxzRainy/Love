@@ -1,6 +1,7 @@
 document.addEventListener('contextmenu', function (e) {
 	e.preventDefault();
 });
+
 function Vector(a, b) {
 	this.x = a;
 	this.y = b;
