@@ -108,6 +108,7 @@ body {
 
 #code .comments {
 	color: #000000;
+	user-select: none;
 }
 
 #copyright {
